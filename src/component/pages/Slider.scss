@@ -1,0 +1,41 @@
+ .carousel-control-prev-icon {
+     width: 3rem;
+     height: 3rem;
+     color: white;
+     background-color: red;
+     border-radius: 50%;
+     filter: drop-shadow(3px 2px 1px black);
+ }
+
+ .carousel-control-next-icon {
+     background-color: red;
+     border-radius: 50%;
+     color: white;
+     width: 3rem;
+     height: 3rem;
+     filter: drop-shadow(3px 2px 1px rgba(0, 0, 0, 0.89));
+
+ }
+
+ .acha img {
+     height: 80vh;
+     width: auto;
+     
+ }
+ .carousel-indicators [data-bs-target]{
+    background-color: #f10707;
+    filter: drop-shadow(2px 2px 1px black);
+ 
+ }
+
+ .acha h3 {
+     font-size: 50px;
+     color: #f10707;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     filter: drop-shadow(2px 2px 1px rgb(0, 0, 0));
+ }
+.acha p{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
